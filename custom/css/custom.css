@@ -1,0 +1,5 @@
+/* Code Crumble - Minimal Branding CSS - Only color changes */
+:root {
+  --primary-color: #2c3e50;  /* Dark blue */
+  --secondary-color: #e74c3c; /* Red */
+}

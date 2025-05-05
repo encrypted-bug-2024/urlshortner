@@ -1,7 +1,7 @@
 {
-  "name": "kutt",
+  "name": "codecrumble",
   "version": "3.2.3",
-  "description": "Modern URL shortener.",
+  "description": "Code Crumble URL shortener service.",
   "main": "./server/server.js",
   "scripts": {
     "dev": "node --watch-path=./server --watch-path=./custom server/server.js",

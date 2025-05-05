@@ -4,13 +4,13 @@ const p = require("../../package.json");
 module.exports = {
   openapi: "3.0.0",
   info: {
-    title: "Kutt.it",
-    description: "API reference for [http://kutt.it](http://kutt.it).\n",
+    title: "Code Crumble",
+    description: "API reference for Code Crumble URL shortener.\n",
     version: p.version
   },
   servers: [
     {
-      url: "https://kutt.it/api/v2"
+      url: "/api/v2"
     }
   ],
   tags: [
